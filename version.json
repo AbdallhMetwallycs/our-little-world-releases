@@ -1,0 +1,15 @@
+{
+  "applicationId": "com.ourlittleworld.app",
+  "versionName": "0.2.0",
+  "versionCode": 2,
+  "minimumSupportedVersionCode": 1,
+  "apkUrl": "https://raw.githubusercontent.com/AbdallhMetwallycs/our-little-world-releases/main/our-little-world-0.2.0.apk",
+  "sha256": "f47ccdec3c8601e5c7b1014f3820c0e65d4f8170eb10ae2b773376aa9fe31c45",
+  "sizeBytes": 3690813,
+  "releaseDate": "2026-11-08",
+  "releaseNotes": [
+    "0.2.0 - first build signed with the permanent release key (versionCode 2).",
+    "This build reads its update feed from raw.githubusercontent.com, so in-app update checks work."
+  ],
+  "mandatory": false
+}
